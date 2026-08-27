@@ -1,0 +1,63 @@
+{
+  "categories": [
+    {
+      "category": "💃 Dáng & Chuyển động người mẫu",
+      "items": [
+        {
+          "id": "vp1",
+          "title": "Xoay người 360 độ",
+          "prompt": "Single high-end cinematic camera move, 360 rotation to showcase outfit details, model walking towards camera."
+        },
+        {
+          "id": "vp2",
+          "title": "Tạo dáng nhẹ nhàng",
+          "prompt": "Model gentle posing, subtle wind blowing hair, soft elegance, high fashion model stance."
+        },
+        {
+          "id": "vp3",
+          "title": "Sải bước Catwalk",
+          "prompt": "Model walking confidently on runway, sleek movement, dramatic spotlight, luxury fashion show."
+        }
+      ]
+    },
+    {
+      "category": "🎥 Góc quay Điện ảnh",
+      "items": [
+        {
+          "id": "vp4",
+          "title": "Góc quay Close-up cận cảnh",
+          "prompt": "Cinematic close-up camera movement, rich fabric textures, soft focus background, 4k ultra-detailed."
+        },
+        {
+          "id": "vp5",
+          "title": "Slow-motion mượt mà",
+          "prompt": "Ultra smooth slow motion 120fps, floating fabric details, cinematic lighting, 8k resolution."
+        }
+      ]
+    },
+    {
+      "category": "🌌 Phong cách & Bối cảnh",
+      "items": [
+        {
+          "id": "vp6",
+          "title": "Studio tối giản Hàn Quốc",
+          "prompt": "Minimalist luxury studio background, warm ambient light, high-end Korean lookbook style."
+        },
+        {
+          "id": "vp7",
+          "title": "Phố phường hiện đại",
+          "prompt": "Modern city street background, natural sunlight, trendy street fashion vibe."
+        }
+      ]
+    },
+    {
+      "category": "Test",
+      "items": [
+        {
+          "id": "vp_1787828644790",
+          "prompt": "A beautiful sunset"
+        }
+      ]
+    }
+  ]
+}

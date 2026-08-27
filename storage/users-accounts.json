@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "username": "sangtruong",
+      "displayName": "Sang Truong",
+      "role": "admin",
+      "status": "active",
+      "passwordHash": "9971f737be6819f0b9703e35c69c39692a3c32757f6f2ed27738d7a836f2c387",
+      "permissions": [],
+      "createdAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "username": "thanhdat2912",
+      "displayName": "Thành Đạt",
+      "role": "employee",
+      "status": "active",
+      "passwordHash": "e0fb7a44a04cdcace8ffe51d50875019402e0f37eb407bf3807b05fa730a0b76",
+      "permissions": [
+        "kenhvideo",
+        "thuvienhinh",
+        "videopromptlib"
+      ],
+      "createdAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "username": "0901389003",
+      "displayName": "0901389003",
+      "role": "employee",
+      "status": "active",
+      "passwordHash": "e0fb7a44a04cdcace8ffe51d50875019402e0f37eb407bf3807b05fa730a0b76",
+      "permissions": [
+        "kenhvideo"
+      ],
+      "createdAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "username": "thao",
+      "displayName": "Thảo",
+      "role": "employee",
+      "status": "active",
+      "passwordHash": "e0fb7a44a04cdcace8ffe51d50875019402e0f37eb407bf3807b05fa730a0b76",
+      "permissions": [
+        "kenhvideo"
+      ],
+      "createdAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "username": "trongnghia",
+      "displayName": "Trọng Nghĩa",
+      "role": "employee",
+      "status": "active",
+      "passwordHash": "e0fb7a44a04cdcace8ffe51d50875019402e0f37eb407bf3807b05fa730a0b76",
+      "permissions": [
+        "kenhvideo"
+      ],
+      "createdAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "username": "may-thu",
+      "displayName": "May Thu",
+      "role": "employee",
+      "status": "active",
+      "passwordHash": "e0fb7a44a04cdcace8ffe51d50875019402e0f37eb407bf3807b05fa730a0b76",
+      "permissions": [
+        "kenhvideo"
+      ],
+      "createdAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "username": "admin",
+      "displayName": "Admin",
+      "role": "employee",
+      "status": "active",
+      "passwordHash": "e0fb7a44a04cdcace8ffe51d50875019402e0f37eb407bf3807b05fa730a0b76",
+      "permissions": [
+        "kenhvideo",
+        "thuvienhinh",
+        "videopromptlib"
+      ],
+      "createdAt": "2026-07-01T00:00:00.000Z"
+    }
+  ]
+}
