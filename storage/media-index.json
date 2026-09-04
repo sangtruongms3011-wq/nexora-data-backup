@@ -20454,5 +20454,75 @@
       "displayName": "Thảo"
     },
     "createdAt": 1787824209803
+  },
+  {
+    "id": "nexora-library/lookbook-background/mtmbmx3g-33b35514e7",
+    "folder": "nexora-library/lookbook-background",
+    "file": "nexora-library/lookbook-background/mtmbmx3g-33b35514e7.png",
+    "url": "/media/nexora-library/lookbook-background/mtmbmx3g-33b35514e7.png",
+    "label": "Lookbook: Bối cảnh đã xóa người",
+    "kind": "bg_clean",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "thao",
+      "displayName": "Thảo"
+    },
+    "createdAt": 1788488098835
+  },
+  {
+    "id": "nexora-library/mtmbtq3e-41eef64ae8",
+    "folder": "nexora-library",
+    "file": "nexora-library/mtmbtq3e-41eef64ae8.png",
+    "url": "/media/nexora-library/mtmbtq3e-41eef64ae8.png",
+    "label": "Lookbook: Look 1",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "thao",
+      "displayName": "Thảo"
+    },
+    "createdAt": 1788488416356
+  },
+  {
+    "id": "nexora-library/mtmbwcc8-133da01649",
+    "folder": "nexora-library",
+    "file": "nexora-library/mtmbwcc8-133da01649.png",
+    "url": "/media/nexora-library/mtmbwcc8-133da01649.png",
+    "label": "Lookbook: Look 3",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "thao",
+      "displayName": "Thảo"
+    },
+    "createdAt": 1788488538515
+  },
+  {
+    "id": "nexora-library/lookbook-hair/mtmbyzxp-74c20f83d3",
+    "folder": "nexora-library/lookbook-hair",
+    "file": "nexora-library/lookbook-hair/mtmbyzxp-74c20f83d3.png",
+    "url": "/media/nexora-library/lookbook-hair/mtmbyzxp-74c20f83d3.png",
+    "label": "Tóc: đã tách",
+    "kind": "hair_ref",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "thao",
+      "displayName": "Thảo"
+    },
+    "createdAt": 1788488662383
+  },
+  {
+    "id": "nexora-library/mtmc1fhl-8be531ae72",
+    "folder": "nexora-library",
+    "file": "nexora-library/mtmc1fhl-8be531ae72.png",
+    "url": "/media/nexora-library/mtmc1fhl-8be531ae72.png",
+    "label": "Lookbook: Look 4",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "thao",
+      "displayName": "Thảo"
+    },
+    "createdAt": 1788488775869
   }
 ]
