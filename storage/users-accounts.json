@@ -15,6 +15,7 @@
         "text2img",
         "trend",
         "bannerAgent",
+        "chupBoConcept",
         "lookbook",
         "upscale",
         "albumBanner",
@@ -198,6 +199,19 @@
         "khonhac"
       ],
       "createdAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "username": "lengan021201",
+      "displayName": "Ngan",
+      "passwordHash": "3180c96ef9770c18efc5f224c78a15d616baa20ecdb5dda63350da9eed382efa",
+      "role": "employee",
+      "permissions": [
+        "chupBoConcept",
+        "lookbook",
+        "upscale"
+      ],
+      "status": "active",
+      "createdAt": 1788513659375
     }
   ]
 }
