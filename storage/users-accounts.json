@@ -203,7 +203,7 @@
     {
       "username": "lengan021201",
       "displayName": "Ngan",
-      "passwordHash": "3180c96ef9770c18efc5f224c78a15d616baa20ecdb5dda63350da9eed382efa",
+      "passwordHash": "6642d55ed0edbf780e3bbc80163bf472ee33640ad7cdeed6af025fe86794cd22",
       "role": "employee",
       "permissions": [
         "chupBoConcept",
@@ -212,6 +212,44 @@
       ],
       "status": "active",
       "createdAt": 1788513659375
+    },
+    {
+      "username": "myquyen",
+      "displayName": "Quyen",
+      "passwordHash": "94c28b29a9cde6084703e55b58721c6acd8086d1e4000cb53095a62236ee81f8",
+      "role": "employee",
+      "permissions": [
+        "single",
+        "mix",
+        "tryon",
+        "designtransfer",
+        "advanced",
+        "text2img",
+        "trend",
+        "chupBoConcept",
+        "lookbook"
+      ],
+      "status": "active",
+      "createdAt": 1788830498566
+    },
+    {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC",
+      "passwordHash": "f6a7862277ac68abd2e8832be39a55d42418feaecdd81645d29e6d4907611b81",
+      "role": "employee",
+      "permissions": [
+        "single",
+        "mix",
+        "tryon",
+        "designtransfer",
+        "advanced",
+        "text2img",
+        "trend",
+        "chupBoConcept",
+        "lookbook"
+      ],
+      "status": "active",
+      "createdAt": 1788834391833
     }
   ]
 }
