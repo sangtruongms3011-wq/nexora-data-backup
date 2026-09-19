@@ -32900,5 +32900,3001 @@
       "displayName": "NGỌC"
     },
     "createdAt": 1789698371380
+  },
+  {
+    "id": "nexora-library/lookbook-product/mu6cdxg2-7a83ca8dbe",
+    "folder": "nexora-library/lookbook-product",
+    "file": "nexora-library/lookbook-product/mu6cdxg2-7a83ca8dbe.jpg",
+    "url": "/media/nexora-library/lookbook-product/mu6cdxg2-7a83ca8dbe.jpg",
+    "label": "Lookbook: Nền trắng",
+    "kind": "product_cutout",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789698682514
+  },
+  {
+    "id": "nexora-library/mu6ci2fu-a77580beca",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ci2fu-a77580beca.jpg",
+    "url": "/media/nexora-library/mu6ci2fu-a77580beca.jpg",
+    "label": "Lookbook: Look 1",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789698875611
+  },
+  {
+    "id": "nexora-library/mu6cjbji-ccdc23d358",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6cjbji-ccdc23d358.jpg",
+    "url": "/media/nexora-library/mu6cjbji-ccdc23d358.jpg",
+    "label": "Lookbook: Look 4",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789698934063
+  },
+  {
+    "id": "nexora-library/mu6ckz7t-0119dcf10f",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ckz7t-0119dcf10f.jpg",
+    "url": "/media/nexora-library/mu6ckz7t-0119dcf10f.jpg",
+    "label": "Lookbook: Look 2",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789699011401
+  },
+  {
+    "id": "nexora-library/mu6cmgn9-7801a12c7d",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6cmgn9-7801a12c7d.jpg",
+    "url": "/media/nexora-library/mu6cmgn9-7801a12c7d.jpg",
+    "label": "Lookbook: Look 5",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789699080646
+  },
+  {
+    "id": "nexora-library/mu6cnt3b-698f4490ab",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6cnt3b-698f4490ab.jpg",
+    "url": "/media/nexora-library/mu6cnt3b-698f4490ab.jpg",
+    "label": "Lookbook: Look 6",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789699143432
+  },
+  {
+    "id": "nexora-library/mu6cvw4z-c1b09c19c0",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6cvw4z-c1b09c19c0.jpg",
+    "url": "/media/nexora-library/mu6cvw4z-c1b09c19c0.jpg",
+    "label": "Thiết kế",
+    "kind": "single",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789699520628
+  },
+  {
+    "id": "nexora-library/mu6cwjo6-682c9c9425",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6cwjo6-682c9c9425.jpg",
+    "url": "/media/nexora-library/mu6cwjo6-682c9c9425.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789699551133
+  },
+  {
+    "id": "nexora-library/mu6cygsd-b046d3a6cf",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6cygsd-b046d3a6cf.jpg",
+    "url": "/media/nexora-library/mu6cygsd-b046d3a6cf.jpg",
+    "label": "Thiết kế",
+    "kind": "single",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789699640702
+  },
+  {
+    "id": "nexora-library/mu6d4kma-c08c787b33",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6d4kma-c08c787b33.jpg",
+    "url": "/media/nexora-library/mu6d4kma-c08c787b33.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789699925609
+  },
+  {
+    "id": "nexora-library/mu6dc3yr-585e8c4b82",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6dc3yr-585e8c4b82.jpg",
+    "url": "/media/nexora-library/mu6dc3yr-585e8c4b82.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789700277276
+  },
+  {
+    "id": "nexora-library/mu6de43n-c0bcb42000",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6de43n-c0bcb42000.jpg",
+    "url": "/media/nexora-library/mu6de43n-c0bcb42000.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789700370762
+  },
+  {
+    "id": "nexora-library/mu6ds9a4-c722fd770c",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ds9a4-c722fd770c.jpg",
+    "url": "/media/nexora-library/mu6ds9a4-c722fd770c.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789701030660
+  },
+  {
+    "id": "nexora-library/mu6dtm6w-7a48e01a70",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6dtm6w-7a48e01a70.jpg",
+    "url": "/media/nexora-library/mu6dtm6w-7a48e01a70.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789701094049
+  },
+  {
+    "id": "nexora-library/lookbook-product/mu6dw4ik-71a26d57b2",
+    "folder": "nexora-library/lookbook-product",
+    "file": "nexora-library/lookbook-product/mu6dw4ik-71a26d57b2.jpg",
+    "url": "/media/nexora-library/lookbook-product/mu6dw4ik-71a26d57b2.jpg",
+    "label": "Nền trắng",
+    "kind": "product_cutout",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789701211101
+  },
+  {
+    "id": "nexora-library/mu6dyciq-7fc4a17f69",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6dyciq-7fc4a17f69.jpg",
+    "url": "/media/nexora-library/mu6dyciq-7fc4a17f69.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789701314793
+  },
+  {
+    "id": "nexora-library/lookbook-product/mu6dydsq-1c5fd371bc",
+    "folder": "nexora-library/lookbook-product",
+    "file": "nexora-library/lookbook-product/mu6dydsq-1c5fd371bc.jpg",
+    "url": "/media/nexora-library/lookbook-product/mu6dydsq-1c5fd371bc.jpg",
+    "label": "Nền trắng",
+    "kind": "product_cutout",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789701316443
+  },
+  {
+    "id": "nexora-library/mu6e0w1b-cba47746e7",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6e0w1b-cba47746e7.jpg",
+    "url": "/media/nexora-library/mu6e0w1b-cba47746e7.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789701433392
+  },
+  {
+    "id": "nexora-library/mu6e2ldp-6404237654",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6e2ldp-6404237654.jpg",
+    "url": "/media/nexora-library/mu6e2ldp-6404237654.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789701512895
+  },
+  {
+    "id": "nexora-library/mu6e342y-dd78e88ebf",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6e342y-dd78e88ebf.jpg",
+    "url": "/media/nexora-library/mu6e342y-dd78e88ebf.jpg",
+    "label": "Chụp bộ: Tấm 4 — Trung cảnh dáng khác",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789701537138
+  },
+  {
+    "id": "nexora-library/mu6e3xj5-3b5d7c2b4f",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6e3xj5-3b5d7c2b4f.jpg",
+    "url": "/media/nexora-library/mu6e3xj5-3b5d7c2b4f.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789701575304
+  },
+  {
+    "id": "nexora-library/mu6e40rq-d1810cbc0f",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6e40rq-d1810cbc0f.jpg",
+    "url": "/media/nexora-library/mu6e40rq-d1810cbc0f.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789701579495
+  },
+  {
+    "id": "nexora-library/mu6e5bzg-791bbb18c5",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6e5bzg-791bbb18c5.jpg",
+    "url": "/media/nexora-library/mu6e5bzg-791bbb18c5.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789701640686
+  },
+  {
+    "id": "nexora-library/mu6e5lks-3a4dfbc26b",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6e5lks-3a4dfbc26b.jpg",
+    "url": "/media/nexora-library/mu6e5lks-3a4dfbc26b.jpg",
+    "label": "Thiết kế",
+    "kind": "single",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789701653116
+  },
+  {
+    "id": "nexora-library/lookbook-product/mu6e7h6n-db7803710d",
+    "folder": "nexora-library/lookbook-product",
+    "file": "nexora-library/lookbook-product/mu6e7h6n-db7803710d.jpg",
+    "url": "/media/nexora-library/lookbook-product/mu6e7h6n-db7803710d.jpg",
+    "label": "Nền trắng",
+    "kind": "product_cutout",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789701740735
+  },
+  {
+    "id": "nexora-library/mu6eb22e-d4924415ee",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6eb22e-d4924415ee.jpg",
+    "url": "/media/nexora-library/mu6eb22e-d4924415ee.jpg",
+    "label": "Thiết kế",
+    "kind": "single",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789701907767
+  },
+  {
+    "id": "nexora-library/mu6echgm-3579d7affa",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6echgm-3579d7affa.jpg",
+    "url": "/media/nexora-library/mu6echgm-3579d7affa.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789701974381
+  },
+  {
+    "id": "nexora-library/mu6ee2wm-0d3930b088",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ee2wm-0d3930b088.jpg",
+    "url": "/media/nexora-library/mu6ee2wm-0d3930b088.jpg",
+    "label": "Thiết kế",
+    "kind": "single",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789702048822
+  },
+  {
+    "id": "nexora-library/mu6ei4vp-314123b4d4",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ei4vp-314123b4d4.jpg",
+    "url": "/media/nexora-library/mu6ei4vp-314123b4d4.jpg",
+    "label": "Thiết kế",
+    "kind": "single",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789702238006
+  },
+  {
+    "id": "nexora-library/mu6eluhr-477a1f1e86",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6eluhr-477a1f1e86.jpg",
+    "url": "/media/nexora-library/mu6eluhr-477a1f1e86.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789702411177
+  },
+  {
+    "id": "nexora-library/mu6en9c3-a6de9cb230",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6en9c3-a6de9cb230.jpg",
+    "url": "/media/nexora-library/mu6en9c3-a6de9cb230.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789702477068
+  },
+  {
+    "id": "nexora-library/mu6entz4-1323f57180",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6entz4-1323f57180.jpg",
+    "url": "/media/nexora-library/mu6entz4-1323f57180.jpg",
+    "label": "Chụp bộ: Tấm 5 — Toàn thân từ phía sau",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789702503816
+  },
+  {
+    "id": "nexora-library/mu6euhra-cdc1a7d66d",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6euhra-cdc1a7d66d.jpg",
+    "url": "/media/nexora-library/mu6euhra-cdc1a7d66d.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789702814574
+  },
+  {
+    "id": "nexora-library/mu6eyvaf-cbc95f4f57",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6eyvaf-cbc95f4f57.jpg",
+    "url": "/media/nexora-library/mu6eyvaf-cbc95f4f57.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789703018728
+  },
+  {
+    "id": "nexora-library/mu6f0o90-3bba645c4b",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6f0o90-3bba645c4b.jpg",
+    "url": "/media/nexora-library/mu6f0o90-3bba645c4b.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789703102920
+  },
+  {
+    "id": "nexora-library/mu6f1tv5-a5c171a12f",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6f1tv5-a5c171a12f.jpg",
+    "url": "/media/nexora-library/mu6f1tv5-a5c171a12f.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789703156850
+  },
+  {
+    "id": "nexora-library/mu6f3bi2-b7df91685c",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6f3bi2-b7df91685c.jpg",
+    "url": "/media/nexora-library/mu6f3bi2-b7df91685c.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789703226364
+  },
+  {
+    "id": "nexora-library/mu6f5c39-f295048957",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6f5c39-f295048957.jpg",
+    "url": "/media/nexora-library/mu6f5c39-f295048957.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789703320438
+  },
+  {
+    "id": "nexora-library/mu6f6gu2-118893aaed",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6f6gu2-118893aaed.jpg",
+    "url": "/media/nexora-library/mu6f6gu2-118893aaed.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789703373243
+  },
+  {
+    "id": "nexora-library/mu6f8a9n-4006ddbe3e",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6f8a9n-4006ddbe3e.jpg",
+    "url": "/media/nexora-library/mu6f8a9n-4006ddbe3e.jpg",
+    "label": "Đang chụp Tấm 1 — Toàn thân chính diện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789703458050
+  },
+  {
+    "id": "nexora-library/mu6f8lql-f8eabb2826",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6f8lql-f8eabb2826.jpg",
+    "url": "/media/nexora-library/mu6f8lql-f8eabb2826.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789703472911
+  },
+  {
+    "id": "nexora-library/mu6fabln-a7a04cbcf7",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6fabln-a7a04cbcf7.jpg",
+    "url": "/media/nexora-library/mu6fabln-a7a04cbcf7.jpg",
+    "label": "Đang chụp Tấm 4 — Trung cảnh dáng khác (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789703553091
+  },
+  {
+    "id": "nexora-library/mu6fbs5s-f1baafc33f",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6fbs5s-f1baafc33f.jpg",
+    "url": "/media/nexora-library/mu6fbs5s-f1baafc33f.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789703621201
+  },
+  {
+    "id": "nexora-library/mu6fcpvk-6627023bb7",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6fcpvk-6627023bb7.jpg",
+    "url": "/media/nexora-library/mu6fcpvk-6627023bb7.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789703664909
+  },
+  {
+    "id": "nexora-library/mu6fczap-91a4c2ca57",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6fczap-91a4c2ca57.jpg",
+    "url": "/media/nexora-library/mu6fczap-91a4c2ca57.jpg",
+    "label": "Đang chụp Tấm 6 — Cận chi tiết — góc chếch (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789703677109
+  },
+  {
+    "id": "nexora-library/mu6fd3xf-09f1bd1efb",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6fd3xf-09f1bd1efb.jpg",
+    "url": "/media/nexora-library/mu6fd3xf-09f1bd1efb.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789703683108
+  },
+  {
+    "id": "nexora-library/mu6fejic-02b958800e",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6fejic-02b958800e.jpg",
+    "url": "/media/nexora-library/mu6fejic-02b958800e.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789703749957
+  },
+  {
+    "id": "nexora-library/mu6fhrlm-58e4c5407d",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6fhrlm-58e4c5407d.jpg",
+    "url": "/media/nexora-library/mu6fhrlm-58e4c5407d.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789703900411
+  },
+  {
+    "id": "nexora-library/mu6fj6bj-c3bb790d75",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6fj6bj-c3bb790d75.jpg",
+    "url": "/media/nexora-library/mu6fj6bj-c3bb790d75.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789703966144
+  },
+  {
+    "id": "nexora-library/mu6fjaww-fcfc48efa2",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6fjaww-fcfc48efa2.jpg",
+    "url": "/media/nexora-library/mu6fjaww-fcfc48efa2.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789703972106
+  },
+  {
+    "id": "nexora-library/mu6gh0h6-675ce0d993",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6gh0h6-675ce0d993.jpg",
+    "url": "/media/nexora-library/mu6gh0h6-675ce0d993.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789705544875
+  },
+  {
+    "id": "nexora-library/mu6giw62-00ccc9713c",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6giw62-00ccc9713c.jpg",
+    "url": "/media/nexora-library/mu6giw62-00ccc9713c.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789705632603
+  },
+  {
+    "id": "nexora-library/mu6gk4ft-ac0ae57fa8",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6gk4ft-ac0ae57fa8.jpg",
+    "url": "/media/nexora-library/mu6gk4ft-ac0ae57fa8.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789705689978
+  },
+  {
+    "id": "nexora-library/mu6hhm4a-a0eb26ba34",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6hhm4a-a0eb26ba34.jpg",
+    "url": "/media/nexora-library/mu6hhm4a-a0eb26ba34.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789707252544
+  },
+  {
+    "id": "nexora-library/mu6hnzkg-50e96e9542",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6hnzkg-50e96e9542.jpg",
+    "url": "/media/nexora-library/mu6hnzkg-50e96e9542.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789707549913
+  },
+  {
+    "id": "nexora-library/mu6hxjgs-4310dc4824",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6hxjgs-4310dc4824.jpg",
+    "url": "/media/nexora-library/mu6hxjgs-4310dc4824.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789707995605
+  },
+  {
+    "id": "nexora-library/mu6hxn68-d5ae545994",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6hxn68-d5ae545994.jpg",
+    "url": "/media/nexora-library/mu6hxn68-d5ae545994.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789708000409
+  },
+  {
+    "id": "nexora-library/mu6i5y2w-cbc3c2c09a",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6i5y2w-cbc3c2c09a.jpg",
+    "url": "/media/nexora-library/mu6i5y2w-cbc3c2c09a.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789708387792
+  },
+  {
+    "id": "nexora-library/mu6i7nmu-07759a6580",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6i7nmu-07759a6580.jpg",
+    "url": "/media/nexora-library/mu6i7nmu-07759a6580.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789708467566
+  },
+  {
+    "id": "nexora-library/mu6ig2om-baca0a5aca",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ig2om-baca0a5aca.jpg",
+    "url": "/media/nexora-library/mu6ig2om-baca0a5aca.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789708860320
+  },
+  {
+    "id": "nexora-library/mu6iqlw1-c63a4035ff",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6iqlw1-c63a4035ff.jpg",
+    "url": "/media/nexora-library/mu6iqlw1-c63a4035ff.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789709351770
+  },
+  {
+    "id": "nexora-library/mu6iv7gf-85977abed3",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6iv7gf-85977abed3.jpg",
+    "url": "/media/nexora-library/mu6iv7gf-85977abed3.jpg",
+    "label": "Chụp bộ: Tấm 4 — Trung cảnh dáng khác",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789709566342
+  },
+  {
+    "id": "nexora-library/mu6j5me9-a38cd4732c",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6j5me9-a38cd4732c.jpg",
+    "url": "/media/nexora-library/mu6j5me9-a38cd4732c.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789710052267
+  },
+  {
+    "id": "nexora-library/mu6l3on3-0806fe8644",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6l3on3-0806fe8644.jpg",
+    "url": "/media/nexora-library/mu6l3on3-0806fe8644.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789713321097
+  },
+  {
+    "id": "nexora-library/mu6l84ti-79080ea009",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6l84ti-79080ea009.jpg",
+    "url": "/media/nexora-library/mu6l84ti-79080ea009.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789713528684
+  },
+  {
+    "id": "nexora-library/mu6l8tt3-6fd24cda10",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6l8tt3-6fd24cda10.jpg",
+    "url": "/media/nexora-library/mu6l8tt3-6fd24cda10.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789713561072
+  },
+  {
+    "id": "nexora-library/mu6l8vru-abdd971725",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6l8vru-abdd971725.jpg",
+    "url": "/media/nexora-library/mu6l8vru-abdd971725.jpg",
+    "label": "Chụp bộ: Tấm 5 — Toàn thân từ phía sau",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789713563618
+  },
+  {
+    "id": "nexora-library/mu6lamxs-0efe3c846f",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6lamxs-0efe3c846f.jpg",
+    "url": "/media/nexora-library/mu6lamxs-0efe3c846f.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789713645481
+  },
+  {
+    "id": "nexora-library/mu6lanw5-b6f83ac14b",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6lanw5-b6f83ac14b.jpg",
+    "url": "/media/nexora-library/mu6lanw5-b6f83ac14b.jpg",
+    "label": "Chụp bộ: Tấm 4 — Trung cảnh dáng khác",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789713646719
+  },
+  {
+    "id": "nexora-library/mu6lauwd-11d0ca432d",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6lauwd-11d0ca432d.jpg",
+    "url": "/media/nexora-library/mu6lauwd-11d0ca432d.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789713655790
+  },
+  {
+    "id": "nexora-library/mu6lc4g8-7c241a0b4b",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6lc4g8-7c241a0b4b.jpg",
+    "url": "/media/nexora-library/mu6lc4g8-7c241a0b4b.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789713714832
+  },
+  {
+    "id": "nexora-library/mu6lcffw-3f6da8d4ac",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6lcffw-3f6da8d4ac.jpg",
+    "url": "/media/nexora-library/mu6lcffw-3f6da8d4ac.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789713729069
+  },
+  {
+    "id": "nexora-library/mu6legpj-ad6d5f5055",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6legpj-ad6d5f5055.jpg",
+    "url": "/media/nexora-library/mu6legpj-ad6d5f5055.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789713824024
+  },
+  {
+    "id": "nexora-library/mu6lh0p7-066254124f",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6lh0p7-066254124f.jpg",
+    "url": "/media/nexora-library/mu6lh0p7-066254124f.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789713943245
+  },
+  {
+    "id": "nexora-library/mu6lj9x1-472a535193",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6lj9x1-472a535193.jpg",
+    "url": "/media/nexora-library/mu6lj9x1-472a535193.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789714048501
+  },
+  {
+    "id": "nexora-library/mu6ll2hx-cf287a06e8",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ll2hx-cf287a06e8.jpg",
+    "url": "/media/nexora-library/mu6ll2hx-cf287a06e8.jpg",
+    "label": "Đang chụp Tấm 2 — Toàn cảnh kể chuyện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789714132205
+  },
+  {
+    "id": "nexora-library/mu6ll4hy-838114bdad",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ll4hy-838114bdad.jpg",
+    "url": "/media/nexora-library/mu6ll4hy-838114bdad.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789714134798
+  },
+  {
+    "id": "nexora-library/mu6ll6bl-58849fcd27",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ll6bl-58849fcd27.jpg",
+    "url": "/media/nexora-library/mu6ll6bl-58849fcd27.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789714137154
+  },
+  {
+    "id": "nexora-library/mu6llfwe-6967c7f7ea",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6llfwe-6967c7f7ea.jpg",
+    "url": "/media/nexora-library/mu6llfwe-6967c7f7ea.jpg",
+    "label": "Chụp bộ: Tấm 6 — Cận chi tiết — góc chếch",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789714149576
+  },
+  {
+    "id": "nexora-library/mu6lll6g-a85c1a5e72",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6lll6g-a85c1a5e72.jpg",
+    "url": "/media/nexora-library/mu6lll6g-a85c1a5e72.jpg",
+    "label": "Chụp bộ: Tấm 4 — Trung cảnh dáng khác",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789714156415
+  },
+  {
+    "id": "nexora-library/mu6lmd19-31fa0c8864",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6lmd19-31fa0c8864.jpg",
+    "url": "/media/nexora-library/mu6lmd19-31fa0c8864.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789714192511
+  },
+  {
+    "id": "nexora-library/mu6lnxqo-2ff8922669",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6lnxqo-2ff8922669.jpg",
+    "url": "/media/nexora-library/mu6lnxqo-2ff8922669.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789714266002
+  },
+  {
+    "id": "nexora-library/mu6lucyu-8779a00779",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6lucyu-8779a00779.jpg",
+    "url": "/media/nexora-library/mu6lucyu-8779a00779.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789714565671
+  },
+  {
+    "id": "nexora-library/mu6lvn9c-9257ca8940",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6lvn9c-9257ca8940.jpg",
+    "url": "/media/nexora-library/mu6lvn9c-9257ca8940.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789714625665
+  },
+  {
+    "id": "nexora-library/mu6lwyf4-6558edd674",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6lwyf4-6558edd674.jpg",
+    "url": "/media/nexora-library/mu6lwyf4-6558edd674.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789714686786
+  },
+  {
+    "id": "nexora-library/mu6ly5my-cf912e1492",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ly5my-cf912e1492.jpg",
+    "url": "/media/nexora-library/mu6ly5my-cf912e1492.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789714742796
+  },
+  {
+    "id": "nexora-library/mu6m10w0-c50a05c57e",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6m10w0-c50a05c57e.jpg",
+    "url": "/media/nexora-library/mu6m10w0-c50a05c57e.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789714876615
+  },
+  {
+    "id": "nexora-library/mu6m1xum-ab617aed4e",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6m1xum-ab617aed4e.jpg",
+    "url": "/media/nexora-library/mu6m1xum-ab617aed4e.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789714919328
+  },
+  {
+    "id": "nexora-library/mu6m3cdb-60896644f9",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6m3cdb-60896644f9.jpg",
+    "url": "/media/nexora-library/mu6m3cdb-60896644f9.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789714984800
+  },
+  {
+    "id": "nexora-library/mu6m4i8w-b173bd3487",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6m4i8w-b173bd3487.jpg",
+    "url": "/media/nexora-library/mu6m4i8w-b173bd3487.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789715039073
+  },
+  {
+    "id": "nexora-library/mu6m666h-a16cda826f",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6m666h-a16cda826f.jpg",
+    "url": "/media/nexora-library/mu6m666h-a16cda826f.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789715116746
+  },
+  {
+    "id": "nexora-library/mu6m83qq-81237c3b70",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6m83qq-81237c3b70.jpg",
+    "url": "/media/nexora-library/mu6m83qq-81237c3b70.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789715206900
+  },
+  {
+    "id": "nexora-library/lookbook-product/mu6maoyw-781602921a",
+    "folder": "nexora-library/lookbook-product",
+    "file": "nexora-library/lookbook-product/mu6maoyw-781602921a.jpg",
+    "url": "/media/nexora-library/lookbook-product/mu6maoyw-781602921a.jpg",
+    "label": "Nền trắng",
+    "kind": "product_cutout",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789715327721
+  },
+  {
+    "id": "nexora-library/lookbook-product/mu6mbzax-40039510e1",
+    "folder": "nexora-library/lookbook-product",
+    "file": "nexora-library/lookbook-product/mu6mbzax-40039510e1.jpg",
+    "url": "/media/nexora-library/lookbook-product/mu6mbzax-40039510e1.jpg",
+    "label": "Nền trắng",
+    "kind": "product_cutout",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789715387770
+  },
+  {
+    "id": "nexora-library/mu6mt8og-9b45c5c409",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6mt8og-9b45c5c409.jpg",
+    "url": "/media/nexora-library/mu6mt8og-9b45c5c409.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789716193079
+  },
+  {
+    "id": "nexora-library/mu6mts7d-963d5e52fb",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6mts7d-963d5e52fb.jpg",
+    "url": "/media/nexora-library/mu6mts7d-963d5e52fb.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789716218384
+  },
+  {
+    "id": "nexora-library/mu6mub6s-bce69a659d",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6mub6s-bce69a659d.jpg",
+    "url": "/media/nexora-library/mu6mub6s-bce69a659d.jpg",
+    "label": "Đang chụp Tấm 2 — Toàn cảnh kể chuyện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789716242987
+  },
+  {
+    "id": "nexora-library/mu6mva1j-73b724286b",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6mva1j-73b724286b.jpg",
+    "url": "/media/nexora-library/mu6mva1j-73b724286b.jpg",
+    "label": "Đang chụp Tấm 1 — Toàn thân chính diện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789716288160
+  },
+  {
+    "id": "nexora-library/mu6mvv7k-2a14d90677",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6mvv7k-2a14d90677.jpg",
+    "url": "/media/nexora-library/mu6mvv7k-2a14d90677.jpg",
+    "label": "Đang chụp Tấm 4 — Trung cảnh dáng khác (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789716315593
+  },
+  {
+    "id": "nexora-library/mu6mw06l-94e4097fea",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6mw06l-94e4097fea.jpg",
+    "url": "/media/nexora-library/mu6mw06l-94e4097fea.jpg",
+    "label": "Đang chụp Tấm 1 — Toàn thân chính diện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789716322039
+  },
+  {
+    "id": "nexora-library/mu6mwaa3-19245272c5",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6mwaa3-19245272c5.jpg",
+    "url": "/media/nexora-library/mu6mwaa3-19245272c5.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789716335116
+  },
+  {
+    "id": "nexora-library/mu6mx403-7c88184b06",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6mx403-7c88184b06.jpg",
+    "url": "/media/nexora-library/mu6mx403-7c88184b06.jpg",
+    "label": "Đang chụp Tấm 2 — Toàn cảnh kể chuyện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789716373641
+  },
+  {
+    "id": "nexora-library/mu6myfgd-2fd8764253",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6myfgd-2fd8764253.jpg",
+    "url": "/media/nexora-library/mu6myfgd-2fd8764253.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789716435139
+  },
+  {
+    "id": "nexora-library/mu6n0sjy-74c9ce4136",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6n0sjy-74c9ce4136.jpg",
+    "url": "/media/nexora-library/mu6n0sjy-74c9ce4136.jpg",
+    "label": "Đang chụp Tấm 5 — Toàn thân từ phía sau (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789716545434
+  },
+  {
+    "id": "nexora-library/mu6n4alk-aee5901e63",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6n4alk-aee5901e63.jpg",
+    "url": "/media/nexora-library/mu6n4alk-aee5901e63.jpg",
+    "label": "Đang chụp Tấm 7 — Toàn thân góc nghiêng (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789716708783
+  },
+  {
+    "id": "nexora-library/mu6n9jqx-da30bfac38",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6n9jqx-da30bfac38.jpg",
+    "url": "/media/nexora-library/mu6n9jqx-da30bfac38.jpg",
+    "label": "Đang chụp Tấm 1 — Toàn thân chính diện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789716953919
+  },
+  {
+    "id": "nexora-library/mu6nckqb-7e704f69ca",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6nckqb-7e704f69ca.jpg",
+    "url": "/media/nexora-library/mu6nckqb-7e704f69ca.jpg",
+    "label": "Chụp lại lần 1 Tấm 2 — Toàn cảnh kể chuyện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789717095163
+  },
+  {
+    "id": "nexora-library/mu6ncvvd-ebe5a70707",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ncvvd-ebe5a70707.jpg",
+    "url": "/media/nexora-library/mu6ncvvd-ebe5a70707.jpg",
+    "label": "Đang chụp Tấm 2 — Toàn cảnh kể chuyện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789717109599
+  },
+  {
+    "id": "nexora-library/mu6ni32o-9f25966d37",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ni32o-9f25966d37.jpg",
+    "url": "/media/nexora-library/mu6ni32o-9f25966d37.jpg",
+    "label": "Đang chụp Tấm 3 — Cận chi tiết — góc chính diện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789717352217
+  },
+  {
+    "id": "nexora-library/mu6npnat-ad56c4807b",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6npnat-ad56c4807b.jpg",
+    "url": "/media/nexora-library/mu6npnat-ad56c4807b.jpg",
+    "label": "Chụp lại lần 1 Tấm 5 — Toàn thân từ phía sau (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789717705019
+  },
+  {
+    "id": "nexora-library/mu6npuf1-39e8929689",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6npuf1-39e8929689.jpg",
+    "url": "/media/nexora-library/mu6npuf1-39e8929689.jpg",
+    "label": "Chụp bộ: Tấm 5 — Toàn thân từ phía sau",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789717714245
+  },
+  {
+    "id": "nexora-library/mu6nv50h-ac222aa47f",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6nv50h-ac222aa47f.jpg",
+    "url": "/media/nexora-library/mu6nv50h-ac222aa47f.jpg",
+    "label": "Chụp bộ: Tấm 6 — Cận chi tiết — góc chếch",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789717961255
+  },
+  {
+    "id": "nexora-library/mu6o0eoq-3bbc6ea160",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6o0eoq-3bbc6ea160.jpg",
+    "url": "/media/nexora-library/mu6o0eoq-3bbc6ea160.jpg",
+    "label": "Chụp bộ: Tấm 7 — Toàn thân góc nghiêng",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789718207073
+  },
+  {
+    "id": "nexora-library/mu6pue9e-e3ae29620e",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6pue9e-e3ae29620e.jpg",
+    "url": "/media/nexora-library/mu6pue9e-e3ae29620e.jpg",
+    "label": "Đang chụp Tấm 3 — Cận chi tiết — góc chính diện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789721285815
+  },
+  {
+    "id": "nexora-library/mu6pv496-f396361d52",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6pv496-f396361d52.jpg",
+    "url": "/media/nexora-library/mu6pv496-f396361d52.jpg",
+    "label": "Chụp lại lần 1 Tấm 1 — Toàn thân chính diện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789721319503
+  },
+  {
+    "id": "nexora-library/mu6pv5bb-3914098abf",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6pv5bb-3914098abf.jpg",
+    "url": "/media/nexora-library/mu6pv5bb-3914098abf.jpg",
+    "label": "Đang chụp Tấm 2 — Toàn cảnh kể chuyện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789721320879
+  },
+  {
+    "id": "nexora-library/mu6pvbhg-b2b2e6588a",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6pvbhg-b2b2e6588a.jpg",
+    "url": "/media/nexora-library/mu6pvbhg-b2b2e6588a.jpg",
+    "label": "Chụp lại lần 1 Tấm 5 — Toàn thân từ phía sau (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789721328874
+  },
+  {
+    "id": "nexora-library/mu6pvc69-f45a8c0ea7",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6pvc69-f45a8c0ea7.jpg",
+    "url": "/media/nexora-library/mu6pvc69-f45a8c0ea7.jpg",
+    "label": "Đang chụp Tấm 3 — Cận chi tiết — góc chính diện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789721329769
+  },
+  {
+    "id": "nexora-library/mu6pveek-295ef6c248",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6pveek-295ef6c248.jpg",
+    "url": "/media/nexora-library/mu6pveek-295ef6c248.jpg",
+    "label": "Đang chụp Tấm 4 — Trung cảnh dáng khác (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789721332659
+  },
+  {
+    "id": "nexora-library/mu6pvfpo-2012bb3a9e",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6pvfpo-2012bb3a9e.jpg",
+    "url": "/media/nexora-library/mu6pvfpo-2012bb3a9e.jpg",
+    "label": "Chụp lại lần 1 Tấm 4 — Trung cảnh dáng khác (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789721334356
+  },
+  {
+    "id": "nexora-library/mu6pvg1s-2cb61bd272",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6pvg1s-2cb61bd272.jpg",
+    "url": "/media/nexora-library/mu6pvg1s-2cb61bd272.jpg",
+    "label": "Đang chụp Tấm 1 — Toàn thân chính diện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789721334790
+  },
+  {
+    "id": "nexora-library/mu6q7hx6-36d1ed56f6",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6q7hx6-36d1ed56f6.jpg",
+    "url": "/media/nexora-library/mu6q7hx6-36d1ed56f6.jpg",
+    "label": "Đang chụp Tấm 2 — Toàn cảnh kể chuyện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789721897092
+  },
+  {
+    "id": "nexora-library/mu6q7mvw-0a99b38bad",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6q7mvw-0a99b38bad.jpg",
+    "url": "/media/nexora-library/mu6q7mvw-0a99b38bad.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789721903522
+  },
+  {
+    "id": "nexora-library/mu6q7zd5-950ca9ce83",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6q7zd5-950ca9ce83.jpg",
+    "url": "/media/nexora-library/mu6q7zd5-950ca9ce83.jpg",
+    "label": "Đang chụp Tấm 7 — Toàn thân góc nghiêng (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789721919697
+  },
+  {
+    "id": "nexora-library/mu6q7zua-b2b6c861b0",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6q7zua-b2b6c861b0.jpg",
+    "url": "/media/nexora-library/mu6q7zua-b2b6c861b0.jpg",
+    "label": "Đang chụp Tấm 4 — Trung cảnh dáng khác (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789721920314
+  },
+  {
+    "id": "nexora-library/mu6qa0t9-0408f39516",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6qa0t9-0408f39516.jpg",
+    "url": "/media/nexora-library/mu6qa0t9-0408f39516.jpg",
+    "label": "Chụp lại lần 1 Tấm 2 — Toàn cảnh kể chuyện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789722014882
+  },
+  {
+    "id": "nexora-library/mu6qbfa1-14e3ec2558",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6qbfa1-14e3ec2558.jpg",
+    "url": "/media/nexora-library/mu6qbfa1-14e3ec2558.jpg",
+    "label": "Chụp lại lần 1 Tấm 1 — Toàn thân chính diện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789722080287
+  },
+  {
+    "id": "nexora-library/mu6qdd9x-0e602e1697",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6qdd9x-0e602e1697.jpg",
+    "url": "/media/nexora-library/mu6qdd9x-0e602e1697.jpg",
+    "label": "Chụp bộ: Tấm 4 — Trung cảnh dáng khác",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789722171012
+  },
+  {
+    "id": "nexora-library/mu6qdl0q-fc4e02465e",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6qdl0q-fc4e02465e.jpg",
+    "url": "/media/nexora-library/mu6qdl0q-fc4e02465e.jpg",
+    "label": "Chụp lại lần 1 Tấm 4 — Trung cảnh dáng khác (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789722181045
+  },
+  {
+    "id": "nexora-library/mu6qeivy-bc1d689057",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6qeivy-bc1d689057.jpg",
+    "url": "/media/nexora-library/mu6qeivy-bc1d689057.jpg",
+    "label": "Chụp lại lần 1 Tấm 7 — Toàn thân góc nghiêng (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789722224937
+  },
+  {
+    "id": "nexora-library/mu6qks5j-c5ef03117e",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6qks5j-c5ef03117e.jpg",
+    "url": "/media/nexora-library/mu6qks5j-c5ef03117e.jpg",
+    "label": "Đang chụp Tấm 4 — Trung cảnh dáng khác (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789722516877
+  },
+  {
+    "id": "nexora-library/mu6qr9hi-157122e7d4",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6qr9hi-157122e7d4.jpg",
+    "url": "/media/nexora-library/mu6qr9hi-157122e7d4.jpg",
+    "label": "Chụp lại lần 2 Tấm 5 — Toàn thân từ phía sau (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789722819277
+  },
+  {
+    "id": "nexora-library/mu6qrwc2-56522ccc6d",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6qrwc2-56522ccc6d.jpg",
+    "url": "/media/nexora-library/mu6qrwc2-56522ccc6d.jpg",
+    "label": "Chụp lại lần 2 Tấm 4 — Trung cảnh dáng khác (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789722848893
+  },
+  {
+    "id": "nexora-library/mu6qvi7g-c68e7630e7",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6qvi7g-c68e7630e7.jpg",
+    "url": "/media/nexora-library/mu6qvi7g-c68e7630e7.jpg",
+    "label": "Chụp lại lần 2 Tấm 1 — Toàn thân chính diện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789723017202
+  },
+  {
+    "id": "nexora-library/mu6qvp74-349d91bd16",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6qvp74-349d91bd16.jpg",
+    "url": "/media/nexora-library/mu6qvp74-349d91bd16.jpg",
+    "label": "Đang chụp Tấm 4 — Trung cảnh dáng khác (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789723026261
+  },
+  {
+    "id": "nexora-library/mu6qx15k-8b3353b067",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6qx15k-8b3353b067.jpg",
+    "url": "/media/nexora-library/mu6qx15k-8b3353b067.jpg",
+    "label": "Chụp lại lần 1 Tấm 4 — Trung cảnh dáng khác (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789723088413
+  },
+  {
+    "id": "nexora-library/mu6qxdi8-bc5b1232f9",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6qxdi8-bc5b1232f9.jpg",
+    "url": "/media/nexora-library/mu6qxdi8-bc5b1232f9.jpg",
+    "label": "Đang chụp Tấm 2 — Toàn cảnh kể chuyện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789723104423
+  },
+  {
+    "id": "nexora-library/mu6rl0nx-2172ae12c4",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6rl0nx-2172ae12c4.jpg",
+    "url": "/media/nexora-library/mu6rl0nx-2172ae12c4.jpg",
+    "label": "Chụp bộ: Tấm 4 — Trung cảnh dáng khác",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789724207525
+  },
+  {
+    "id": "nexora-library/mu6rrpa5-546328c5f2",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6rrpa5-546328c5f2.jpg",
+    "url": "/media/nexora-library/mu6rrpa5-546328c5f2.jpg",
+    "label": "Chụp lại lần 2 Tấm 1 — Toàn thân chính diện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789724519365
+  },
+  {
+    "id": "nexora-library/mu6rrqo8-eb9fb69e38",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6rrqo8-eb9fb69e38.jpg",
+    "url": "/media/nexora-library/mu6rrqo8-eb9fb69e38.jpg",
+    "label": "Chụp bộ: Tấm 5 — Toàn thân từ phía sau",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789724521169
+  },
+  {
+    "id": "nexora-library/mu6rrrfz-c55c00d002",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6rrrfz-c55c00d002.jpg",
+    "url": "/media/nexora-library/mu6rrrfz-c55c00d002.jpg",
+    "label": "Chụp lại lần 1 Tấm 2 — Toàn cảnh kể chuyện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789724522168
+  },
+  {
+    "id": "nexora-library/mu6rrrnx-a43c9bfad8",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6rrrnx-a43c9bfad8.jpg",
+    "url": "/media/nexora-library/mu6rrrnx-a43c9bfad8.jpg",
+    "label": "Chụp lại lần 2 Tấm 3 — Cận chi tiết — góc chính diện (PlenX đang tạo, chờ ngầm)",
+    "kind": "all",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789724522453
+  },
+  {
+    "id": "nexora-library/mu6s01zs-9aff1b0fc0",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6s01zs-9aff1b0fc0.jpg",
+    "url": "/media/nexora-library/mu6s01zs-9aff1b0fc0.jpg",
+    "label": "Chụp bộ: Tấm 6 — Cận chi tiết — góc chếch",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789724909086
+  },
+  {
+    "id": "nexora-library/mu6s2p3l-6217a60eaa",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6s2p3l-6217a60eaa.jpg",
+    "url": "/media/nexora-library/mu6s2p3l-6217a60eaa.jpg",
+    "label": "Chụp bộ: Tấm 7 — Toàn thân góc nghiêng",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789725032342
+  },
+  {
+    "id": "nexora-library/mu6s90uj-966dbf2471",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6s90uj-966dbf2471.jpg",
+    "url": "/media/nexora-library/mu6s90uj-966dbf2471.jpg",
+    "label": "Chụp bộ: Tấm 7 — Toàn thân góc nghiêng",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789725327508
+  },
+  {
+    "id": "nexora-library/mu6sd1fd-575bdf1a3a",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6sd1fd-575bdf1a3a.jpg",
+    "url": "/media/nexora-library/mu6sd1fd-575bdf1a3a.jpg",
+    "label": "Chụp bộ: Tấm 6 — Cận chi tiết — góc chếch",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789725514879
+  },
+  {
+    "id": "nexora-library/mu6sdl5n-99d870454e",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6sdl5n-99d870454e.jpg",
+    "url": "/media/nexora-library/mu6sdl5n-99d870454e.jpg",
+    "label": "Chụp bộ: Tấm 5 — Toàn thân từ phía sau",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789725540451
+  },
+  {
+    "id": "nexora-library/mu6sdpct-89591200e7",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6sdpct-89591200e7.jpg",
+    "url": "/media/nexora-library/mu6sdpct-89591200e7.jpg",
+    "label": "Chụp bộ: Tấm 5 — Toàn thân từ phía sau",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789725545891
+  },
+  {
+    "id": "nexora-library/mu6sjs9w-a88dcb8c76",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6sjs9w-a88dcb8c76.jpg",
+    "url": "/media/nexora-library/mu6sjs9w-a88dcb8c76.jpg",
+    "label": "Chụp bộ: Tấm 6 — Cận chi tiết — góc chếch",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789725829611
+  },
+  {
+    "id": "nexora-library/mu6snarf-5ae4995aab",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6snarf-5ae4995aab.jpg",
+    "url": "/media/nexora-library/mu6snarf-5ae4995aab.jpg",
+    "label": "Chụp bộ: Tấm 7 — Toàn thân góc nghiêng",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789725993550
+  },
+  {
+    "id": "nexora-library/mu6snm5k-953f3bb072",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6snm5k-953f3bb072.jpg",
+    "url": "/media/nexora-library/mu6snm5k-953f3bb072.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789726008303
+  },
+  {
+    "id": "nexora-library/mu6stlx2-ede4d57f77",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6stlx2-ede4d57f77.jpg",
+    "url": "/media/nexora-library/mu6stlx2-ede4d57f77.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789726287936
+  },
+  {
+    "id": "nexora-library/mu6swaye-992797fcf0",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6swaye-992797fcf0.jpg",
+    "url": "/media/nexora-library/mu6swaye-992797fcf0.jpg",
+    "label": "Chụp bộ: Tấm 7 — Toàn thân góc nghiêng",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789726413695
+  },
+  {
+    "id": "nexora-library/mu6t2t7e-f82e4536b0",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6t2t7e-f82e4536b0.jpg",
+    "url": "/media/nexora-library/mu6t2t7e-f82e4536b0.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789726717286
+  },
+  {
+    "id": "nexora-library/mu6t4acf-cf3e4b091b",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6t4acf-cf3e4b091b.jpg",
+    "url": "/media/nexora-library/mu6t4acf-cf3e4b091b.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789726786156
+  },
+  {
+    "id": "nexora-library/mu6t8rub-265628ee5f",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6t8rub-265628ee5f.jpg",
+    "url": "/media/nexora-library/mu6t8rub-265628ee5f.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789726995457
+  },
+  {
+    "id": "nexora-library/mu6t8swn-cb0103a0b8",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6t8swn-cb0103a0b8.jpg",
+    "url": "/media/nexora-library/mu6t8swn-cb0103a0b8.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789726996832
+  },
+  {
+    "id": "nexora-library/mu6taaul-7873f2201c",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6taaul-7873f2201c.jpg",
+    "url": "/media/nexora-library/mu6taaul-7873f2201c.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789727066739
+  },
+  {
+    "id": "nexora-library/mu6taoms-a8f468677a",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6taoms-a8f468677a.jpg",
+    "url": "/media/nexora-library/mu6taoms-a8f468677a.jpg",
+    "label": "Chụp bộ: Tấm 6 — Cận chi tiết — góc chếch",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789727084604
+  },
+  {
+    "id": "nexora-library/mu6tbv87-b701f5f1ac",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6tbv87-b701f5f1ac.jpg",
+    "url": "/media/nexora-library/mu6tbv87-b701f5f1ac.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789727139808
+  },
+  {
+    "id": "nexora-library/mu6teuhb-92cc977ee9",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6teuhb-92cc977ee9.jpg",
+    "url": "/media/nexora-library/mu6teuhb-92cc977ee9.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789727278800
+  },
+  {
+    "id": "nexora-library/mu6tggrf-cbfde77e7b",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6tggrf-cbfde77e7b.jpg",
+    "url": "/media/nexora-library/mu6tggrf-cbfde77e7b.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789727354332
+  },
+  {
+    "id": "nexora-library/mu6thr35-41e07c5a0b",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6thr35-41e07c5a0b.jpg",
+    "url": "/media/nexora-library/mu6thr35-41e07c5a0b.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789727414370
+  },
+  {
+    "id": "nexora-library/mu6ti0q1-c2673098ef",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ti0q1-c2673098ef.jpg",
+    "url": "/media/nexora-library/mu6ti0q1-c2673098ef.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789727426861
+  },
+  {
+    "id": "nexora-library/mu6tv45a-5c065327c5",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6tv45a-5c065327c5.jpg",
+    "url": "/media/nexora-library/mu6tv45a-5c065327c5.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789728037823
+  },
+  {
+    "id": "nexora-library/mu6twolx-61324417e7",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6twolx-61324417e7.jpg",
+    "url": "/media/nexora-library/mu6twolx-61324417e7.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789728110999
+  },
+  {
+    "id": "nexora-library/mu6v8qyk-784d9cfb1c",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6v8qyk-784d9cfb1c.jpg",
+    "url": "/media/nexora-library/mu6v8qyk-784d9cfb1c.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789730353544
+  },
+  {
+    "id": "nexora-library/mu6va637-4877024030",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6va637-4877024030.jpg",
+    "url": "/media/nexora-library/mu6va637-4877024030.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789730419805
+  },
+  {
+    "id": "nexora-library/mu6w0ccg-6ba6426f88",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6w0ccg-6ba6426f88.jpg",
+    "url": "/media/nexora-library/mu6w0ccg-6ba6426f88.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789731640968
+  },
+  {
+    "id": "nexora-library/mu6w0tzr-ba36db55cf",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6w0tzr-ba36db55cf.jpg",
+    "url": "/media/nexora-library/mu6w0tzr-ba36db55cf.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789731663839
+  },
+  {
+    "id": "nexora-library/mu6w0v5r-a1a3552ba7",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6w0v5r-a1a3552ba7.jpg",
+    "url": "/media/nexora-library/mu6w0v5r-a1a3552ba7.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789731665353
+  },
+  {
+    "id": "nexora-library/mu6w1kjp-323eba891b",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6w1kjp-323eba891b.jpg",
+    "url": "/media/nexora-library/mu6w1kjp-323eba891b.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789731698256
+  },
+  {
+    "id": "nexora-library/mu6w6t41-909135216c",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6w6t41-909135216c.jpg",
+    "url": "/media/nexora-library/mu6w6t41-909135216c.jpg",
+    "label": "Chụp bộ: Tấm 4 — Trung cảnh dáng khác",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789731942635
+  },
+  {
+    "id": "nexora-library/mu6wa872-b051db748b",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6wa872-b051db748b.jpg",
+    "url": "/media/nexora-library/mu6wa872-b051db748b.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789732102151
+  },
+  {
+    "id": "nexora-library/mu6wha6k-7eb6239a4f",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6wha6k-7eb6239a4f.jpg",
+    "url": "/media/nexora-library/mu6wha6k-7eb6239a4f.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789732431318
+  },
+  {
+    "id": "nexora-library/mu6wiylv-2918f97151",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6wiylv-2918f97151.jpg",
+    "url": "/media/nexora-library/mu6wiylv-2918f97151.jpg",
+    "label": "Chụp bộ: Tấm 7 — Toàn thân góc nghiêng",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789732509626
+  },
+  {
+    "id": "nexora-library/mu6wjamc-6bf81f78b6",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6wjamc-6bf81f78b6.jpg",
+    "url": "/media/nexora-library/mu6wjamc-6bf81f78b6.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789732525196
+  },
+  {
+    "id": "nexora-library/mu6wkwlc-7d6f8aaa11",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6wkwlc-7d6f8aaa11.jpg",
+    "url": "/media/nexora-library/mu6wkwlc-7d6f8aaa11.jpg",
+    "label": "Chụp bộ: Tấm 5 — Toàn thân từ phía sau",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789732600330
+  },
+  {
+    "id": "nexora-library/mu6wmwkk-130f309797",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6wmwkk-130f309797.jpg",
+    "url": "/media/nexora-library/mu6wmwkk-130f309797.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789732693612
+  },
+  {
+    "id": "nexora-library/mu6wn9ln-d71eed62da",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6wn9ln-d71eed62da.jpg",
+    "url": "/media/nexora-library/mu6wn9ln-d71eed62da.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789732710498
+  },
+  {
+    "id": "nexora-library/mu6wnybs-495a73a8fd",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6wnybs-495a73a8fd.jpg",
+    "url": "/media/nexora-library/mu6wnybs-495a73a8fd.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789732742546
+  },
+  {
+    "id": "nexora-library/mu6wp54o-7921e95113",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6wp54o-7921e95113.jpg",
+    "url": "/media/nexora-library/mu6wp54o-7921e95113.jpg",
+    "label": "Chụp bộ: Tấm 4 — Trung cảnh dáng khác",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789732798017
+  },
+  {
+    "id": "nexora-library/mu6x6aiq-c4f73fb9af",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6x6aiq-c4f73fb9af.jpg",
+    "url": "/media/nexora-library/mu6x6aiq-c4f73fb9af.jpg",
+    "label": "Chụp bộ: Tấm 5 — Toàn thân từ phía sau",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789733598156
+  },
+  {
+    "id": "nexora-library/mu6x9flo-e85c032614",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6x9flo-e85c032614.jpg",
+    "url": "/media/nexora-library/mu6x9flo-e85c032614.jpg",
+    "label": "Chụp bộ: Tấm 6 — Cận chi tiết — góc chếch",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789733744709
+  },
+  {
+    "id": "nexora-library/mu6xji3e-b036bdb2b8",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6xji3e-b036bdb2b8.jpg",
+    "url": "/media/nexora-library/mu6xji3e-b036bdb2b8.jpg",
+    "label": "Chụp bộ: Tấm 6 — Cận chi tiết — góc chếch",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789734214500
+  },
+  {
+    "id": "nexora-library/mu6xjr2j-4012e7fed7",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6xjr2j-4012e7fed7.jpg",
+    "url": "/media/nexora-library/mu6xjr2j-4012e7fed7.jpg",
+    "label": "Chụp bộ: Tấm 4 — Trung cảnh dáng khác",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789734226133
+  },
+  {
+    "id": "nexora-library/mu6xnn0x-4af202d8b5",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6xnn0x-4af202d8b5.jpg",
+    "url": "/media/nexora-library/mu6xnn0x-4af202d8b5.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789734407514
+  },
+  {
+    "id": "nexora-library/mu6xsdsy-5bbb5dd920",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6xsdsy-5bbb5dd920.jpg",
+    "url": "/media/nexora-library/mu6xsdsy-5bbb5dd920.jpg",
+    "label": "Chụp bộ: Tấm 7 — Toàn thân góc nghiêng",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789734628842
+  },
+  {
+    "id": "nexora-library/mu6xy3af-ac7e60f400",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6xy3af-ac7e60f400.jpg",
+    "url": "/media/nexora-library/mu6xy3af-ac7e60f400.jpg",
+    "label": "Chụp bộ: Tấm 4 — Trung cảnh dáng khác",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789734895150
+  },
+  {
+    "id": "nexora-library/mu6y1w7i-01a0ecd5c2",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6y1w7i-01a0ecd5c2.jpg",
+    "url": "/media/nexora-library/mu6y1w7i-01a0ecd5c2.jpg",
+    "label": "Chụp bộ: Tấm 5 — Toàn thân từ phía sau",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789735072603
+  },
+  {
+    "id": "nexora-library/mu6y71bl-76c3e31ce1",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6y71bl-76c3e31ce1.jpg",
+    "url": "/media/nexora-library/mu6y71bl-76c3e31ce1.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789735312506
+  },
+  {
+    "id": "nexora-library/mu6y9nr9-b5307d5266",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6y9nr9-b5307d5266.jpg",
+    "url": "/media/nexora-library/mu6y9nr9-b5307d5266.jpg",
+    "label": "Chụp bộ: Tấm 6 — Cận chi tiết — góc chếch",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789735434892
+  },
+  {
+    "id": "nexora-library/mu6yc0oe-c0a66c7999",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6yc0oe-c0a66c7999.jpg",
+    "url": "/media/nexora-library/mu6yc0oe-c0a66c7999.jpg",
+    "label": "Chụp bộ: Tấm 5 — Toàn thân từ phía sau",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789735544947
+  },
+  {
+    "id": "nexora-library/mu6ykbe3-ff4c8c8e39",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ykbe3-ff4c8c8e39.jpg",
+    "url": "/media/nexora-library/mu6ykbe3-ff4c8c8e39.jpg",
+    "label": "Chụp bộ: Tấm 7 — Toàn thân góc nghiêng",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789735932083
+  },
+  {
+    "id": "nexora-library/mu6ylz1l-3b50f508f3",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ylz1l-3b50f508f3.jpg",
+    "url": "/media/nexora-library/mu6ylz1l-3b50f508f3.jpg",
+    "label": "Chụp bộ: Tấm 4 — Trung cảnh dáng khác",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789736009435
+  },
+  {
+    "id": "nexora-library/mu6ypwo4-126b91d2ea",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6ypwo4-126b91d2ea.jpg",
+    "url": "/media/nexora-library/mu6ypwo4-126b91d2ea.jpg",
+    "label": "Chụp bộ: Tấm 6 — Cận chi tiết — góc chếch",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789736192942
+  },
+  {
+    "id": "nexora-library/mu6yq1fp-28e69c598c",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6yq1fp-28e69c598c.jpg",
+    "url": "/media/nexora-library/mu6yq1fp-28e69c598c.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789736199118
+  },
+  {
+    "id": "nexora-library/mu6z2s6h-2ed1c9d960",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6z2s6h-2ed1c9d960.jpg",
+    "url": "/media/nexora-library/mu6z2s6h-2ed1c9d960.jpg",
+    "label": "Chụp bộ: Tấm 5 — Toàn thân từ phía sau",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789736793651
+  },
+  {
+    "id": "nexora-library/mu6z3udy-d2db5704d6",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6z3udy-d2db5704d6.jpg",
+    "url": "/media/nexora-library/mu6z3udy-d2db5704d6.jpg",
+    "label": "Chụp bộ: Tấm 7 — Toàn thân góc nghiêng",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789736843167
+  },
+  {
+    "id": "nexora-library/mu6zel33-1df4badc4a",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu6zel33-1df4badc4a.jpg",
+    "url": "/media/nexora-library/mu6zel33-1df4badc4a.jpg",
+    "label": "Chụp bộ: Tấm 6 — Cận chi tiết — góc chếch",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1789737344325
+  },
+  {
+    "id": "nexora-library/mu7qr8sp-10f7d21c45",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu7qr8sp-10f7d21c45.jpg",
+    "url": "/media/nexora-library/mu7qr8sp-10f7d21c45.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789783284554
+  },
+  {
+    "id": "nexora-library/mu7qvbkh-d79773b19a",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu7qvbkh-d79773b19a.jpg",
+    "url": "/media/nexora-library/mu7qvbkh-d79773b19a.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789783474770
+  },
+  {
+    "id": "nexora-library/mu7r16iq-1bfe5cf8a3",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu7r16iq-1bfe5cf8a3.jpg",
+    "url": "/media/nexora-library/mu7r16iq-1bfe5cf8a3.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789783748163
+  },
+  {
+    "id": "nexora-library/mu7r5ynh-5dd35deba0",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu7r5ynh-5dd35deba0.jpg",
+    "url": "/media/nexora-library/mu7r5ynh-5dd35deba0.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789783971246
+  },
+  {
+    "id": "nexora-library/mu7r7f59-de7df4127c",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu7r7f59-de7df4127c.jpg",
+    "url": "/media/nexora-library/mu7r7f59-de7df4127c.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789784039278
+  },
+  {
+    "id": "nexora-library/mu7r8kuh-f67d483c71",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu7r8kuh-f67d483c71.jpg",
+    "url": "/media/nexora-library/mu7r8kuh-f67d483c71.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789784093322
+  },
+  {
+    "id": "nexora-library/mu7ram5m-51814b483d",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu7ram5m-51814b483d.jpg",
+    "url": "/media/nexora-library/mu7ram5m-51814b483d.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789784188331
+  },
+  {
+    "id": "nexora-library/mu7rdy5m-6d8e2ce803",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu7rdy5m-6d8e2ce803.jpg",
+    "url": "/media/nexora-library/mu7rdy5m-6d8e2ce803.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789784343851
+  },
+  {
+    "id": "nexora-library/mu7rfi76-37a4849473",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu7rfi76-37a4849473.jpg",
+    "url": "/media/nexora-library/mu7rfi76-37a4849473.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789784416483
+  },
+  {
+    "id": "nexora-library/mu7rfwu0-8f10190a5c",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu7rfwu0-8f10190a5c.jpg",
+    "url": "/media/nexora-library/mu7rfwu0-8f10190a5c.jpg",
+    "label": "Thiết kế",
+    "kind": "single",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789784435449
+  },
+  {
+    "id": "nexora-library/mu7rgpwu-1325a4c98a",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu7rgpwu-1325a4c98a.jpg",
+    "url": "/media/nexora-library/mu7rgpwu-1325a4c98a.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789784473135
+  },
+  {
+    "id": "nexora-library/mu7rk54r-67e86e6b0a",
+    "folder": "nexora-library",
+    "file": "nexora-library/mu7rk54r-67e86e6b0a.jpg",
+    "url": "/media/nexora-library/mu7rk54r-67e86e6b0a.jpg",
+    "label": "Thiết kế",
+    "kind": "single",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1789784632827
+  },
+  {
+    "id": "nexora-library/lookbook-product/mu7rncbs-a8d3ae9a50",
+    "folder": "nexora-library/lookbook-product",
+    "file": "nexora-library/lookbook-product/mu7rncbs-a8d3ae9a50.jpg",
+    "url": "/media/nexora-library/lookbook-product/mu7rncbs-a8d3ae9a50.jpg",
+    "label": "Nền trắng",
+    "kind": "product_cutout",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789784782121
+  },
+  {
+    "id": "nexora-library/lookbook-product/mu7rp3ly-44cabcc22f",
+    "folder": "nexora-library/lookbook-product",
+    "file": "nexora-library/lookbook-product/mu7rp3ly-44cabcc22f.jpg",
+    "url": "/media/nexora-library/lookbook-product/mu7rp3ly-44cabcc22f.jpg",
+    "label": "Nền trắng",
+    "kind": "product_cutout",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1789784864135
   }
 ]
