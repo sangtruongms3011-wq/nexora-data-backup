@@ -26,7 +26,8 @@
         "video",
         "videoeditor",
         "videopromptlib",
-        "khonhac"
+        "khonhac",
+        "soivideo"
       ],
       "createdAt": "2026-07-01T00:00:00.000Z"
     },
@@ -92,7 +93,7 @@
       "displayName": "Thảo",
       "role": "employee",
       "status": "active",
-      "passwordHash": "e0fb7a44a04cdcace8ffe51d50875019402e0f37eb407bf3807b05fa730a0b76",
+      "passwordHash": "6642d55ed0edbf780e3bbc80163bf472ee33640ad7cdeed6af025fe86794cd22",
       "permissions": [
         "single",
         "mix",
