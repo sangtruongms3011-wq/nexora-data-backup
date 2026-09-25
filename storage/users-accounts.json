@@ -251,6 +251,26 @@
       ],
       "status": "active",
       "createdAt": 1788834391833
+    },
+    {
+      "username": "ngocnga19",
+      "displayName": "Ngọc Ngà",
+      "passwordHash": "4420ad08520af964a95958566b3cc0d1e1dba5444d14c9b1e9700ba39040ecce",
+      "role": "employee",
+      "permissions": [
+        "chupBoConcept",
+        "lookbook",
+        "kenhvideo",
+        "postflow",
+        "videoai",
+        "video",
+        "videoeditor",
+        "videopromptlib",
+        "khonhac",
+        "soivideo"
+      ],
+      "status": "active",
+      "createdAt": 1790246823037
     }
   ]
 }
