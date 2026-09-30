@@ -271,6 +271,26 @@
       ],
       "status": "active",
       "createdAt": 1790246823037
+    },
+    {
+      "username": "yenngoc",
+      "displayName": "Yến",
+      "passwordHash": "2168726d83d7e4621a4dbc72510ecf7ec9c3d797953f4c6421dd1110a6e271f8",
+      "role": "employee",
+      "permissions": [
+        "chupBoConcept",
+        "lookbook",
+        "upscale",
+        "albumBanner",
+        "kenhvideo",
+        "postflow",
+        "videoai",
+        "videoeditor",
+        "khonhac",
+        "soivideo"
+      ],
+      "status": "active",
+      "createdAt": 1790691908979
     }
   ]
 }
