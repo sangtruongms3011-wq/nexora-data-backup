@@ -42826,5 +42826,33 @@
       "displayName": "Ngan"
     },
     "createdAt": 1790993995326
+  },
+  {
+    "id": "nexora-library/mus8gth0-6d96412783",
+    "folder": "nexora-library",
+    "file": "nexora-library/mus8gth0-6d96412783.jpg",
+    "url": "/media/nexora-library/mus8gth0-6d96412783.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1791022354749
+  },
+  {
+    "id": "nexora-library/mus8p6ng-9d554c98ba",
+    "folder": "nexora-library",
+    "file": "nexora-library/mus8p6ng-9d554c98ba.jpg",
+    "url": "/media/nexora-library/mus8p6ng-9d554c98ba.jpg",
+    "label": "Chụp bộ: Tấm 2 — Toàn cảnh kể chuyện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1791022745075
   }
 ]
