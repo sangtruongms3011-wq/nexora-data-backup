@@ -45962,5 +45962,131 @@
       "displayName": "Quyen"
     },
     "createdAt": 1791535900226
+  },
+  {
+    "id": "nexora-library/mv27expb-056f8225b9",
+    "folder": "nexora-library",
+    "file": "nexora-library/mv27expb-056f8225b9.jpg",
+    "url": "/media/nexora-library/mv27expb-056f8225b9.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1791625249056
+  },
+  {
+    "id": "nexora-library/mv27k2jl-14a4825090",
+    "folder": "nexora-library",
+    "file": "nexora-library/mv27k2jl-14a4825090.jpg",
+    "url": "/media/nexora-library/mv27k2jl-14a4825090.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1791625488610
+  },
+  {
+    "id": "nexora-library/mv27o50c-031488448f",
+    "folder": "nexora-library",
+    "file": "nexora-library/mv27o50c-031488448f.jpg",
+    "url": "/media/nexora-library/mv27o50c-031488448f.jpg",
+    "label": "Makeup: đã tách",
+    "kind": "makeup_ref",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1791625678429
+  },
+  {
+    "id": "nexora-library/lookbook-hair/mv27qpd1-8621989dd4",
+    "folder": "nexora-library/lookbook-hair",
+    "file": "nexora-library/lookbook-hair/mv27qpd1-8621989dd4.jpg",
+    "url": "/media/nexora-library/lookbook-hair/mv27qpd1-8621989dd4.jpg",
+    "label": "Tóc: đã tách",
+    "kind": "hair_ref",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1791625798118
+  },
+  {
+    "id": "nexora-library/lookbook-mannequin/mv27rlr7-2b7a9e36e9",
+    "folder": "nexora-library/lookbook-mannequin",
+    "file": "nexora-library/lookbook-mannequin/mv27rlr7-2b7a9e36e9.jpg",
+    "url": "/media/nexora-library/lookbook-mannequin/mv27rlr7-2b7a9e36e9.jpg",
+    "label": "Lookbook: Mannequin dáng tham khảo",
+    "kind": "mannequin_ref",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1791625840102
+  },
+  {
+    "id": "nexora-library/lookbook-background/mv27xe41-41ef4f8f81",
+    "folder": "nexora-library/lookbook-background",
+    "file": "nexora-library/lookbook-background/mv27xe41-41ef4f8f81.jpg",
+    "url": "/media/nexora-library/lookbook-background/mv27xe41-41ef4f8f81.jpg",
+    "label": "Lookbook: Bối cảnh đã xóa người",
+    "kind": "bg_clean",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1791626110130
+  },
+  {
+    "id": "nexora-library/mv281yqb-dbacadbb72",
+    "folder": "nexora-library",
+    "file": "nexora-library/mv281yqb-dbacadbb72.jpg",
+    "url": "/media/nexora-library/mv281yqb-dbacadbb72.jpg",
+    "label": "Lookbook: Look 1",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1791626323478
+  },
+  {
+    "id": "nexora-library/mv284bwe-3667fcebb3",
+    "folder": "nexora-library",
+    "file": "nexora-library/mv284bwe-3667fcebb3.jpg",
+    "url": "/media/nexora-library/mv284bwe-3667fcebb3.jpg",
+    "label": "Lookbook: Look 2",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1791626433855
+  },
+  {
+    "id": "nexora-library/mv28i4o8-b3a4338310",
+    "folder": "nexora-library",
+    "file": "nexora-library/mv28i4o8-b3a4338310.jpg",
+    "url": "/media/nexora-library/mv28i4o8-b3a4338310.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1791627077674
   }
 ]
