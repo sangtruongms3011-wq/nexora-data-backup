@@ -46088,5 +46088,47 @@
       "displayName": "Quyen"
     },
     "createdAt": 1791627077674
+  },
+  {
+    "id": "nexora-library/mv4kor6o-d62e213fc9",
+    "folder": "nexora-library",
+    "file": "nexora-library/mv4kor6o-d62e213fc9.jpg",
+    "url": "/media/nexora-library/mv4kor6o-d62e213fc9.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1791768474530
+  },
+  {
+    "id": "nexora-library/mv4krcwd-066e43445e",
+    "folder": "nexora-library",
+    "file": "nexora-library/mv4krcwd-066e43445e.jpg",
+    "url": "/media/nexora-library/mv4krcwd-066e43445e.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1791768595982
+  },
+  {
+    "id": "nexora-library/mv4kt277-de4cd80a4a",
+    "folder": "nexora-library",
+    "file": "nexora-library/mv4kt277-de4cd80a4a.jpg",
+    "url": "/media/nexora-library/mv4kt277-de4cd80a4a.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1791768675428
   }
 ]
