@@ -291,6 +291,37 @@
       ],
       "status": "active",
       "createdAt": 1790691908979
+    },
+    {
+      "username": "yen",
+      "displayName": "Yến",
+      "passwordHash": "e05ef93640e7afc7f971126debaeeef41f15a1198112e4d0b147ec7a9a5c0370",
+      "role": "employee",
+      "permissions": [
+        "single",
+        "mix",
+        "tryon",
+        "designtransfer",
+        "advanced",
+        "text2img",
+        "trend",
+        "bannerAgent",
+        "chupBoConcept",
+        "lookbook",
+        "upscale",
+        "albumBanner",
+        "promptlib",
+        "kenhvideo",
+        "postflow",
+        "videoai",
+        "video",
+        "videoeditor",
+        "videopromptlib",
+        "khonhac",
+        "soivideo"
+      ],
+      "status": "active",
+      "createdAt": 1791779455815
     }
   ]
 }
