@@ -54054,5 +54054,33 @@
       "displayName": "Ngan"
     },
     "createdAt": 1792835294186
+  },
+  {
+    "id": "nexora-library/mvokijvu-74cb9f0f77",
+    "folder": "nexora-library",
+    "file": "nexora-library/mvokijvu-74cb9f0f77.jpg",
+    "url": "/media/nexora-library/mvokijvu-74cb9f0f77.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1792977508656
+  },
+  {
+    "id": "nexora-library/mvom9dkz-7770483b69",
+    "folder": "nexora-library",
+    "file": "nexora-library/mvom9dkz-7770483b69.jpg",
+    "url": "/media/nexora-library/mvom9dkz-7770483b69.jpg",
+    "label": "Chụp bộ: Tấm 4 — Trung cảnh dáng khác",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1792980439814
   }
 ]
