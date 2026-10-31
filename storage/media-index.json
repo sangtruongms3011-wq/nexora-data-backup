@@ -38658,5 +38658,173 @@
       "displayName": "Quyen"
     },
     "createdAt": 1793327300128
+  },
+  {
+    "id": "nexora-library/mvud2wpy-6573f117b3",
+    "folder": "nexora-library",
+    "file": "nexora-library/mvud2wpy-6573f117b3.jpg",
+    "url": "/media/nexora-library/mvud2wpy-6573f117b3.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện · dáng 1: Hai tay buông, chân bắt chéo",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1793327818544
+  },
+  {
+    "id": "nexora-library/mvuduh53-c320229fd4",
+    "folder": "nexora-library",
+    "file": "nexora-library/mvuduh53-c320229fd4.jpg",
+    "url": "/media/nexora-library/mvuduh53-c320229fd4.jpg",
+    "label": "Visual Try-On",
+    "kind": "tryon",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1793329104712
+  },
+  {
+    "id": "nexora-library/mvudx0f2-405af27e46",
+    "folder": "nexora-library",
+    "file": "nexora-library/mvudx0f2-405af27e46.jpg",
+    "url": "/media/nexora-library/mvudx0f2-405af27e46.jpg",
+    "label": "Lookbook: Look 1",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1793329223007
+  },
+  {
+    "id": "nexora-library/lookbook-mannequin/mvufnla9-de129d34bc",
+    "folder": "nexora-library/lookbook-mannequin",
+    "file": "nexora-library/lookbook-mannequin/mvufnla9-de129d34bc.jpg",
+    "url": "/media/nexora-library/lookbook-mannequin/mvufnla9-de129d34bc.jpg",
+    "label": "Lookbook: Mannequin dáng tham khảo",
+    "kind": "mannequin_ref",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1793332142723
+  },
+  {
+    "id": "nexora-library/mvufr8ud-8363bf477c",
+    "folder": "nexora-library",
+    "file": "nexora-library/mvufr8ud-8363bf477c.jpg",
+    "url": "/media/nexora-library/mvufr8ud-8363bf477c.jpg",
+    "label": "Lookbook: Look 2",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1793332313223
+  },
+  {
+    "id": "nexora-library/mvufyhgw-cc2865d104",
+    "folder": "nexora-library",
+    "file": "nexora-library/mvufyhgw-cc2865d104.jpg",
+    "url": "/media/nexora-library/mvufyhgw-cc2865d104.jpg",
+    "label": "Lookbook: Look 3",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1793332650994
+  },
+  {
+    "id": "nexora-library/mvugzp9g-bf368e0264",
+    "folder": "nexora-library",
+    "file": "nexora-library/mvugzp9g-bf368e0264.jpg",
+    "url": "/media/nexora-library/mvugzp9g-bf368e0264.jpg",
+    "label": "Chụp bộ: Tấm 3 — Cận chi tiết — góc chính diện",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1793334387369
+  },
+  {
+    "id": "nexora-library/mvuh7ra7-65ad34ce0e",
+    "folder": "nexora-library",
+    "file": "nexora-library/mvuh7ra7-65ad34ce0e.jpg",
+    "url": "/media/nexora-library/mvuh7ra7-65ad34ce0e.jpg",
+    "label": "Chụp bộ: Tấm 4 — Trung cảnh dáng khác",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1793334763239
+  },
+  {
+    "id": "nexora-library/mvuhdzdo-4e7a1cd330",
+    "folder": "nexora-library",
+    "file": "nexora-library/mvuhdzdo-4e7a1cd330.jpg",
+    "url": "/media/nexora-library/mvuhdzdo-4e7a1cd330.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện · dáng 1: Hai tay buông, chân bắt chéo",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1793335053672
+  },
+  {
+    "id": "nexora-library/mvumxn35-74fb2b61f1",
+    "folder": "nexora-library",
+    "file": "nexora-library/mvumxn35-74fb2b61f1.jpg",
+    "url": "/media/nexora-library/mvumxn35-74fb2b61f1.jpg",
+    "label": "Chụp bộ: Tấm 1 — Toàn thân chính diện · dáng 2: Một tay chống hông",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "lengan021201",
+      "displayName": "Ngan"
+    },
+    "createdAt": 1793344368937
+  },
+  {
+    "id": "nexora-library/lookbook-product/mvupw7pq-da26f12c47",
+    "folder": "nexora-library/lookbook-product",
+    "file": "nexora-library/lookbook-product/mvupw7pq-da26f12c47.jpg",
+    "url": "/media/nexora-library/lookbook-product/mvupw7pq-da26f12c47.jpg",
+    "label": "Nền trắng",
+    "kind": "product_cutout",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1793349341201
+  },
+  {
+    "id": "nexora-library/mvuqmcku-d7af1fa901",
+    "folder": "nexora-library",
+    "file": "nexora-library/mvuqmcku-d7af1fa901.jpg",
+    "url": "/media/nexora-library/mvuqmcku-d7af1fa901.jpg",
+    "label": "Thiết kế",
+    "kind": "single",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "ngoc04_16.",
+      "displayName": "NGỌC"
+    },
+    "createdAt": 1793350560558
   }
 ]
