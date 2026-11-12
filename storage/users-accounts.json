@@ -12,6 +12,8 @@
         "tryon",
         "designtransfer",
         "advanced",
+        "bienthe",
+        "taomau",
         "text2img",
         "trend",
         "bannerAgent",
@@ -226,10 +228,12 @@
         "tryon",
         "designtransfer",
         "advanced",
+        "bienthe",
         "text2img",
         "trend",
         "chupBoConcept",
-        "lookbook"
+        "lookbook",
+        "taomau"
       ],
       "status": "active",
       "createdAt": 1788830498566
