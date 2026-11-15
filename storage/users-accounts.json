@@ -14,6 +14,7 @@
         "advanced",
         "bienthe",
         "taomau",
+        "xuongdam",
         "text2img",
         "trend",
         "bannerAgent",
@@ -229,11 +230,12 @@
         "designtransfer",
         "advanced",
         "bienthe",
+        "taomau",
+        "xuongdam",
         "text2img",
         "trend",
         "chupBoConcept",
-        "lookbook",
-        "taomau"
+        "lookbook"
       ],
       "status": "active",
       "createdAt": 1788830498566
