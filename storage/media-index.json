@@ -47548,5 +47548,201 @@
       "displayName": "Quyen"
     },
     "createdAt": 1794651320746
+  },
+  {
+    "id": "nexora-library/mwk0vsky-6b30055b6e",
+    "folder": "nexora-library",
+    "file": "nexora-library/mwk0vsky-6b30055b6e.jpg",
+    "url": "/media/nexora-library/mwk0vsky-6b30055b6e.jpg",
+    "label": "Nâng cao: Mẫu mới 1",
+    "kind": "advanced",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1794879451763
+  },
+  {
+    "id": "nexora-library/mwk0vyg3-abf4250b61",
+    "folder": "nexora-library",
+    "file": "nexora-library/mwk0vyg3-abf4250b61.jpg",
+    "url": "/media/nexora-library/mwk0vyg3-abf4250b61.jpg",
+    "label": "Nâng cao: Mẫu mới 2",
+    "kind": "advanced",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1794879459365
+  },
+  {
+    "id": "nexora-library/mwk10sfl-bac0e68c5b",
+    "folder": "nexora-library",
+    "file": "nexora-library/mwk10sfl-bac0e68c5b.jpg",
+    "url": "/media/nexora-library/mwk10sfl-bac0e68c5b.jpg",
+    "label": "Nâng cao: Mẫu mới 2",
+    "kind": "advanced",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1794879684850
+  },
+  {
+    "id": "nexora-library/mwk10so9-1ca27ac644",
+    "folder": "nexora-library",
+    "file": "nexora-library/mwk10so9-1ca27ac644.jpg",
+    "url": "/media/nexora-library/mwk10so9-1ca27ac644.jpg",
+    "label": "Nâng cao: Mẫu mới 1",
+    "kind": "advanced",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1794879685162
+  },
+  {
+    "id": "nexora-library/mwk19014-e94ee6e4ea",
+    "folder": "nexora-library",
+    "file": "nexora-library/mwk19014-e94ee6e4ea.jpg",
+    "url": "/media/nexora-library/mwk19014-e94ee6e4ea.jpg",
+    "label": "Thiết kế",
+    "kind": "single",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1794880067945
+  },
+  {
+    "id": "nexora-library/lookbook-product/mwk1fpik-c86a64ae59",
+    "folder": "nexora-library/lookbook-product",
+    "file": "nexora-library/lookbook-product/mwk1fpik-c86a64ae59.jpg",
+    "url": "/media/nexora-library/lookbook-product/mwk1fpik-c86a64ae59.jpg",
+    "label": "Nền trắng",
+    "kind": "product_cutout",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1794880380909
+  },
+  {
+    "id": "nexora-library/mwk1ockj-5f526305f0",
+    "folder": "nexora-library",
+    "file": "nexora-library/mwk1ockj-5f526305f0.jpg",
+    "url": "/media/nexora-library/mwk1ockj-5f526305f0.jpg",
+    "label": "Thiết kế",
+    "kind": "single",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1794880784036
+  },
+  {
+    "id": "nexora-library/mwk22xw8-63682a84f2",
+    "folder": "nexora-library",
+    "file": "nexora-library/mwk22xw8-63682a84f2.jpg",
+    "url": "/media/nexora-library/mwk22xw8-63682a84f2.jpg",
+    "label": "Lookbook: Look 2",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1794881464857
+  },
+  {
+    "id": "nexora-library/mwk28m1r-15a9d85a75",
+    "folder": "nexora-library",
+    "file": "nexora-library/mwk28m1r-15a9d85a75.jpg",
+    "url": "/media/nexora-library/mwk28m1r-15a9d85a75.jpg",
+    "label": "Lookbook: Look 3",
+    "kind": "lookbook",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1794881729440
+  },
+  {
+    "id": "nexora-library/mwk2a5zw-0e90c82892",
+    "folder": "nexora-library",
+    "file": "nexora-library/mwk2a5zw-0e90c82892.jpg",
+    "url": "/media/nexora-library/mwk2a5zw-0e90c82892.jpg",
+    "label": "Nâng cao: Mẫu mới 2",
+    "kind": "advanced",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1794881801950
+  },
+  {
+    "id": "nexora-library/mwk2ad05-8f922bf972",
+    "folder": "nexora-library",
+    "file": "nexora-library/mwk2ad05-8f922bf972.jpg",
+    "url": "/media/nexora-library/mwk2ad05-8f922bf972.jpg",
+    "label": "Nâng cao: Mẫu mới 1",
+    "kind": "advanced",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1794881811030
+  },
+  {
+    "id": "nexora-library/mwk2c60x-eef6ad631b",
+    "folder": "nexora-library",
+    "file": "nexora-library/mwk2c60x-eef6ad631b.jpg",
+    "url": "/media/nexora-library/mwk2c60x-eef6ad631b.jpg",
+    "label": "Xưởng Đầm • Tab 0 • Flat sketch mẫu gốc",
+    "kind": "xuongdam",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "sangtruong",
+      "displayName": "Sang Truong"
+    },
+    "createdAt": 1794881895298
+  },
+  {
+    "id": "nexora-library/mwk2pu18-6321b1e790",
+    "folder": "nexora-library",
+    "file": "nexora-library/mwk2pu18-6321b1e790.jpg",
+    "url": "/media/nexora-library/mwk2pu18-6321b1e790.jpg",
+    "label": "Nâng cao: Mẫu mới 1",
+    "kind": "advanced",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1794882532942
+  },
+  {
+    "id": "nexora-library/mwk2pwu0-b316fa710b",
+    "folder": "nexora-library",
+    "file": "nexora-library/mwk2pwu0-b316fa710b.jpg",
+    "url": "/media/nexora-library/mwk2pwu0-b316fa710b.jpg",
+    "label": "Nâng cao: Mẫu mới 2",
+    "kind": "advanced",
+    "resourceType": "image",
+    "createdBy": {
+      "username": "myquyen",
+      "displayName": "Quyen"
+    },
+    "createdAt": 1794882536569
   }
 ]
