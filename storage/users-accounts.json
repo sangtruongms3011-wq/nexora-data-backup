@@ -251,6 +251,9 @@
         "tryon",
         "designtransfer",
         "advanced",
+        "bienthe",
+        "taomau",
+        "xuongdam",
         "text2img",
         "trend",
         "chupBoConcept",
@@ -329,6 +332,15 @@
       ],
       "status": "active",
       "createdAt": 1791779455815
+    },
+    {
+      "username": "thien",
+      "displayName": "Thien",
+      "passwordHash": "216909b9bea8da4799fc62b4108d6da976c6da41b3bd84fecedfa353d2c42eba",
+      "role": "employee",
+      "permissions": [],
+      "status": "pending",
+      "createdAt": 1794918115459
     }
   ]
 }
