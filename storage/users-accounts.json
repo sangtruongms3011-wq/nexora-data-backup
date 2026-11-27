@@ -341,6 +341,15 @@
       "permissions": [],
       "status": "pending",
       "createdAt": 1794918115459
+    },
+    {
+      "username": "anan",
+      "displayName": "An",
+      "passwordHash": "6642d55ed0edbf780e3bbc80163bf472ee33640ad7cdeed6af025fe86794cd22",
+      "role": "employee",
+      "permissions": [],
+      "status": "pending",
+      "createdAt": 1795679506704
     }
   ]
 }
